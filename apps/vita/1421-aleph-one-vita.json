@@ -13,7 +13,8 @@
   "requirements": "- Game Data Files: PC",
   "screenshots": [],
   "trophies": false,
-  "ai": true,
+  "ai": false,
+  "ai_assisted": true,
   "data": "https://github.com/DrDecki/Aleph-One-Marathon-Trilogy-PsVita-/releases/download/AlephOneVita1.4/AlephOne.zip",
   "trusted": true
 }

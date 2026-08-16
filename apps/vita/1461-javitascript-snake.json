@@ -13,6 +13,7 @@
   "requirements": "A PS Vita or PS TV with homebrew enabled (Enso, HENkaku or h-encore). Install the VPK with VitaShell. Saves live in ux0:data/VitaSnake/ and are preserved across upgrades.",
   "screenshots": [],
   "trophies": false,
-  "ai": true,
+  "ai": false,
+  "ai_assisted": true,
   "trusted": false
 }

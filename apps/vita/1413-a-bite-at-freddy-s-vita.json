@@ -13,6 +13,7 @@
   "requirements": "- Game Data Files: PC",
   "screenshots": [],
   "trophies": false,
-  "ai": true,
+  "ai": false,
+  "ai_assisted": true,
   "trusted": false
 }

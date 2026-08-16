@@ -13,6 +13,7 @@
   "requirements": "- libshacccg.suprx",
   "screenshots": [],
   "trophies": false,
-  "ai": true,
+  "ai": false,
+  "ai_assisted": true,
   "trusted": true
 }
