@@ -1,0 +1,19 @@
+{
+  "id": 2,
+  "name": "VitaCloud",
+  "author": "osxarrr",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "VITACLOUD",
+  "repo": "osxarrr/VitaCloud-PSVita",
+  "asset": "*.vpk",
+  "prerelease": true,
+  "icon": "0002-vitacloud.png",
+  "description": "A music browser and player for PlayStation Vita with SoundCloud search, artist and playlist discovery, library access, and an Up Next queue.",
+  "requirements": "Internet connection. Track availability depends on SoundCloud.",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "ai_assisted": true
+}
+
