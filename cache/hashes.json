@@ -1571,6 +1571,11 @@
     "hash": "6dc2c32ee574cd828d508af6a297a542",
     "hash2": ""
   },
+  "TheLostPantheon/ArxLibertatis@674035266@2026-10-25T03:59:30Z": {
+    "folder": "",
+    "hash": "e4cc1fe042941f67dccd639f2e9fe208",
+    "hash2": ""
+  },
   "TheLostPantheon/openmw@486508738@2026-07-22T23:06:24Z": {
     "hash": "14f1c7eb0c971881253ffbf3df4e7a02",
     "hash2": ""
@@ -1608,6 +1613,11 @@
   "TheLostPantheon/openmw@667055696@2026-10-22T20:52:07Z": {
     "folder": "",
     "hash": "f8bda2e3fb045a3ac8355bb40509e233",
+    "hash2": ""
+  },
+  "TheLostPantheon/openmw@673285619@2026-10-24T20:54:48Z": {
+    "folder": "",
+    "hash": "ca6b284c89c125a356351005f80ca5fd",
     "hash2": ""
   },
   "TheMorc/MilkyTrackerVita@113322946@2023-06-18T23:32:54Z": {
@@ -15228,6 +15238,11 @@
     "hash": "7d94bddbacbe5a7e5f326a19f897347d",
     "hash2": ""
   },
+  "frangarcj/ff3_vita@672073870@2026-10-24T11:19:08Z": {
+    "folder": "",
+    "hash": "99edb2db37d190d03e7265da67b4e47a",
+    "hash2": ""
+  },
   "frangarcj/ff5_vita@46535331@2021-10-08T16:58:29Z": {
     "hash": "6ba59d264965bf32651826511e41081b",
     "hash2": ""
@@ -15563,6 +15578,11 @@
   },
   "lp1dev/vita_ports_scanner@219400449@2025-01-10T11:46:46Z": {
     "hash": "ce457701be8c3304e5d8ae50b134821e",
+    "hash2": ""
+  },
+  "m-a-fr/dancing-every-night@674494319@2026-10-25T08:23:50Z": {
+    "folder": "",
+    "hash": "3f13ed1ecdf397452d708313aa50f3a3",
     "hash2": ""
   },
   "m1s3ry/crashlands-vita@37230096@2021-05-20T10:05:07Z": {
@@ -16151,6 +16171,11 @@
   "thcolin/gamepad-media-center-aggregator@585674429@2026-09-24T10:06:17Z": {
     "folder": "",
     "hash": "b89789366d5567f9e4f19296492842d0",
+    "hash2": ""
+  },
+  "thcolin/gamepad-media-center-aggregator@672338654@2026-10-24T13:27:24Z": {
+    "folder": "",
+    "hash": "ff9dfae8b4f6ac9ea8866ccae902f763",
     "hash2": ""
   },
   "theheroGAC/Digital-Clock-Vita@498660521@2026-08-02T06:58:03Z": {
