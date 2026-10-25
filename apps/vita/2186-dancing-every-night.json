@@ -1,0 +1,22 @@
+{
+  "id": 2186,
+  "name": "Dancing Every Night",
+  "author": "Docteurbob",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "DNEN00001",
+
+  "repo": "m-a-fr/dancing-every-night",
+  "asset": "*.vpk",
+  "prerelease": false,
+
+  "icon": "2186-dancing-every-night.png",
+
+  "description": "A community rhythm game in the spirit of osu!. Six lanes on two arcs, taps, holds, double notes and scratches, with 3 official songs.\nInstall new songs made by other players (copy the .zip into ux0:data/dancingeverynight/import/) or make your own with the free online editor. Song library: https://dancing-every-night.pages.dev/songs/\nOpen source (GPLv3).",
+  "requirements": "",
+
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "ai_assisted": true
+}
