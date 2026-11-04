@@ -13,5 +13,6 @@
   "requirements": "- Game data required: Gish 1.6 (non-Steam, MS Windows), Gish 1.53 (non-Steam, Linux), or Gish 1.7 (Steam version).",
   "screenshots": [],
   "trophies": false,
-  "ai": true
+  "ai": true,
+  "trusted": false
 }
