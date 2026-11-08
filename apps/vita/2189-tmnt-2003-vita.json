@@ -15,7 +15,7 @@
   "description": "A port of the PC version of Teenage Mutant Ninja Turtles (Konami, 2003) to the PS Vita. The game's x86 executable is statically recompiled to C from the user's own copy of the game, and runs on a host runtime that replaces Win32, Direct3D 9 (through vitaGL), DirectInput and DirectSound.\nThe VPK contains only the port's own code; the game's code and data come from the user's copy.",
   "requirements": "libshacccg.suprx. PC game files (English/Russian release, TMNT_EN.EXE). tmnt_code.so and image.bin, made on a computer from the game with tools/make_vita_files.py: see the README on GitHub.",
 
-  "screenshots": [],
+  "screenshots": ["screenshots/2189-1.png", "screenshots/2189-2.png", "screenshots/2189-3.png", "screenshots/2189-4.png"],
   "trophies": false,
   "ai": true
 }

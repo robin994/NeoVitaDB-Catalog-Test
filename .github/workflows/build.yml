@@ -59,6 +59,11 @@ jobs:
           cp -r icons_vita dist/icons
           cp -r icons_psp dist/icons_psp
 
+      - name: Stage screenshots alongside the catalog
+        # Entries' "screenshots" paths are relative to the catalog root (the app's CATALOG_SHOT_FMT is "<base>/%s").
+        run: |
+          if [ -d screenshots ]; then cp -r screenshots dist/screenshots; fi
+
       # On pull requests we stop here: the build having succeeded is the check.
       # Besides the checksum cache, the build also rewrites each entry's
       # "trusted" flag in apps/*.json in place when its author's membership in
