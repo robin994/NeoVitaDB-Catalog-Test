@@ -1,0 +1,2538 @@
+{
+  "snapshot_date": "2026-11-10",
+  "vitadb_count": 1331,
+  "already_in_test": 1078,
+  "missing": 253,
+  "imported_count": 189,
+  "skipped_count": 64,
+  "imported": [
+    {
+      "vita_id": "1708",
+      "catalog_id": 2192,
+      "name": "RECVX Vita",
+      "repo": "rinnegatamante/recvx_vita",
+      "asset": "*.vpk",
+      "release_tag": "v.1.4",
+      "source_asset": "recvx.vpk",
+      "icon": "2192-recvx-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1780",
+      "catalog_id": 2193,
+      "name": "VivoTube",
+      "repo": "hamburger101/vivotube",
+      "asset": "*.vpk",
+      "release_tag": "v1.3.3",
+      "source_asset": "VivoTube.vpk",
+      "icon": "2193-vivotube.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1593",
+      "catalog_id": 2194,
+      "name": "Vita IPTV",
+      "repo": "emrhky/vitaiptv",
+      "asset": "*.vpk",
+      "release_tag": "v1.1.0",
+      "source_asset": "VitaIPTV.vpk",
+      "icon": "2194-vita-iptv.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1616",
+      "catalog_id": 2195,
+      "name": "MH3 Vita",
+      "repo": "grarak/mh3-wii",
+      "asset": "*.vpk",
+      "release_tag": "0.3",
+      "source_asset": "mh3-vita.vpk",
+      "icon": "2195-mh3-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1628",
+      "catalog_id": 2196,
+      "name": "UMD Player",
+      "repo": "xesf/umd-player",
+      "asset": "*.vpk",
+      "release_tag": "v0.9.14",
+      "source_asset": "umdplayer-v0.9.14.vpk",
+      "icon": "2196-umd-player.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1662",
+      "catalog_id": 2197,
+      "name": "ViTube Music",
+      "repo": "pupuestudios/vitube-music",
+      "asset": "*.vpk",
+      "release_tag": "v1.3",
+      "source_asset": "vitube-music.vpk",
+      "icon": "2197-vitube-music.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1746",
+      "catalog_id": 2198,
+      "name": "Manhunt Vita",
+      "repo": "xesf/manhunt-releases",
+      "asset": "*.vpk",
+      "release_tag": "v0.5.1",
+      "source_asset": "manhunt-v0.5.1-vita.vpk",
+      "icon": "2198-manhunt-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1771",
+      "catalog_id": 2199,
+      "name": "k2boy Prince of Persia 3D",
+      "repo": "xesf/k2boy",
+      "asset": "*.vpk",
+      "release_tag": "v0.3.0",
+      "source_asset": "k2boy.vpk",
+      "icon": "2199-k2boy-prince-of-persia-3d.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1772",
+      "catalog_id": 2200,
+      "name": "Burnout Legends Vita",
+      "repo": "lab0ulange/burnoutlegends-vita",
+      "asset": "*.vpk",
+      "release_tag": "v0.0.1",
+      "source_asset": "burnout-gl-0.0.1.vpk",
+      "icon": "2200-burnout-legends-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1773",
+      "catalog_id": 2201,
+      "name": "C2-Vita",
+      "repo": "paxrisen/c2-vita",
+      "asset": "*.vpk",
+      "release_tag": "C2-Vita-v1.0",
+      "source_asset": "C2-Vita_1.0.vpk",
+      "icon": "2201-c2-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1691",
+      "catalog_id": 2202,
+      "name": "VitAdhoc",
+      "repo": "cboc-vita-lab/vitadhoc",
+      "asset": "*.vpk",
+      "release_tag": "v1.3.1",
+      "source_asset": "VitAdhoc.vpk",
+      "icon": "2202-vitadhoc.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1735",
+      "catalog_id": 2203,
+      "name": "Ignition Vita",
+      "repo": "xesf/ignition",
+      "asset": "*.vpk",
+      "release_tag": "v0.4.2",
+      "source_asset": "ignition-vita-v0.4.2.vpk",
+      "icon": "2203-ignition-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1736",
+      "catalog_id": 2204,
+      "name": "The X-Files Vita",
+      "repo": "xesf/the-x-files-game",
+      "asset": "*.vpk",
+      "release_tag": "v0.4.6",
+      "source_asset": "xfiles-v0.4.6-vita.vpk",
+      "icon": "2204-the-x-files-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1769",
+      "catalog_id": 2205,
+      "name": "Super Mario Galaxy Vita",
+      "repo": "producdevity/supermariogalaxyvita",
+      "asset": "*.vpk",
+      "release_tag": "v1.4",
+      "source_asset": "SuperMarioGalaxyVita-Producdevity.vpk",
+      "icon": "2205-super-mario-galaxy-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1747",
+      "catalog_id": 2206,
+      "name": "Ultimate Spider-Man Vita",
+      "repo": "boomannotjeff/usm_vita",
+      "asset": "*.vpk",
+      "release_tag": "1.1",
+      "source_asset": "usm.vpk",
+      "icon": "2206-ultimate-spider-man-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1748",
+      "catalog_id": 2207,
+      "name": "Vampire Survivors Vita",
+      "repo": "federicoilgrandebardo/vampire-survivors-vita",
+      "asset": "*.vpk",
+      "release_tag": "v1.1",
+      "source_asset": "VampireSurvivors-Vita-v1.1.vpk",
+      "icon": "2207-vampire-survivors-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1532",
+      "catalog_id": 2208,
+      "name": "The Impossible Game Vita",
+      "repo": "metalsyntax/the-impossible-game-vita",
+      "asset": "*.vpk",
+      "release_tag": "v1.3.1",
+      "source_asset": "theimpossiblegame.vpk",
+      "icon": "2208-the-impossible-game-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1625",
+      "catalog_id": 2209,
+      "name": "Rayman Jungle Run Vita",
+      "repo": "metalsyntax/rayman-jungle-run-vita",
+      "asset": "*.vpk",
+      "release_tag": "v1.2.0",
+      "source_asset": "raymanjunglerun.vpk",
+      "icon": "2209-rayman-jungle-run-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1626",
+      "catalog_id": 2210,
+      "name": "Badland 2 Vita",
+      "repo": "metalsyntax/badland-2-vita",
+      "asset": "*.vpk",
+      "release_tag": "v1.2.0",
+      "source_asset": "badland2.vpk",
+      "icon": "2210-badland-2-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1706",
+      "catalog_id": 2211,
+      "name": "DNMP Vita",
+      "repo": "myname24/dnmp-vita",
+      "asset": "*.vpk",
+      "release_tag": "V0.1",
+      "source_asset": "dnmp-vita-1.0-beta.vpk",
+      "icon": "2211-dnmp-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1766",
+      "catalog_id": 2212,
+      "name": "Space Taxi Mayhem",
+      "repo": "rsn8887/spacetaximayhem",
+      "asset": "*.vpk",
+      "release_tag": "v1.4.0",
+      "source_asset": "SpaceTaxiMayhem-1.4.0-Vita.vpk",
+      "icon": "2212-space-taxi-mayhem.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1768",
+      "catalog_id": 2213,
+      "name": "Pokemon Colosseum Vita",
+      "repo": "rinnegatamante/colosseum-vita",
+      "asset": "*.vpk",
+      "release_tag": "v.1.0",
+      "source_asset": "PokemonColosseum.vpk",
+      "icon": "2213-pokemon-colosseum-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1560",
+      "catalog_id": 2214,
+      "name": "Carnivores: Dinosaur Hunter Vita",
+      "repo": "metalsyntax/carnivores-dinosaur-hunter-vita",
+      "asset": "*.vpk",
+      "release_tag": "v1.2.0",
+      "source_asset": "carnivoresdinosaurhunter.vpk",
+      "icon": "2214-carnivores-dinosaur-hunter-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1561",
+      "catalog_id": 2215,
+      "name": "Carnivores: Ice Age Vita",
+      "repo": "metalsyntax/carnivores-ice-age-vita",
+      "asset": "*.vpk",
+      "release_tag": "v1.2.0",
+      "source_asset": "carnivoresiceage.vpk",
+      "icon": "2215-carnivores-ice-age-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1562",
+      "catalog_id": 2216,
+      "name": "Riptide GP Vita",
+      "repo": "metalsyntax/riptide-gp-vita",
+      "asset": "*.vpk",
+      "release_tag": "v1.0.3",
+      "source_asset": "riptidegp.vpk",
+      "icon": "2216-riptide-gp-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1639",
+      "catalog_id": 2217,
+      "name": "METEOR VII VITA",
+      "repo": "ggdrn/meteor-vii-vita",
+      "asset": "*.vpk",
+      "release_tag": "v1.2.0",
+      "source_asset": "ff7_vita_v1.2.0.vpk",
+      "icon": "2217-meteor-vii-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1709",
+      "catalog_id": 2218,
+      "name": "Star Fox Adventures Vita",
+      "repo": "tchisholm20/starfox-adventures-vita",
+      "asset": "*.zip",
+      "release_tag": "v0.1.3",
+      "source_asset": "StarFoxAdventures-Vita-2026-11-05.zip",
+      "icon": "2218-star-fox-adventures-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1725",
+      "catalog_id": 2219,
+      "name": "VitaJ2ME",
+      "repo": "metalsyntax/vita-j2me-emulator",
+      "asset": "*.vpk",
+      "release_tag": "v1.0.1",
+      "source_asset": "VitaJ2ME-v1.0.1.vpk",
+      "icon": "2219-vitaj2me.png",
+      "has_external_data_in_vitadb": true
+    },
+    {
+      "vita_id": "1762",
+      "catalog_id": 2220,
+      "name": "Star Wars Battlefront II Vita",
+      "repo": "tezla55/swbf2-vita",
+      "asset": "*.vpk",
+      "release_tag": "beta",
+      "source_asset": "swbf2-vita.vpk",
+      "icon": "2220-star-wars-battlefront-ii-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1764",
+      "catalog_id": 2221,
+      "name": "PinballNS Vita",
+      "repo": "astro-plane/pinball-ns-vita-edition",
+      "asset": "*.vpk",
+      "release_tag": "v1.1",
+      "source_asset": "PinballNS.vpk",
+      "icon": "2221-pinballns-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1724",
+      "catalog_id": 2222,
+      "name": "TwinsanityEvolved",
+      "repo": "menaman123/twinsanityevolved",
+      "asset": "*.vpk",
+      "release_tag": "v0.9.3",
+      "source_asset": "twinsanityevolved-v0.9.3-vita.vpk",
+      "icon": "2222-twinsanityevolved.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1624",
+      "catalog_id": 2223,
+      "name": "VitaPlane",
+      "repo": "ing156/vitagram",
+      "asset": "*.vpk",
+      "release_tag": "v0.39.05",
+      "source_asset": "VitaPlane-0.39.05.vpk",
+      "icon": "2223-vitaplane.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1701",
+      "catalog_id": 2224,
+      "name": "vkQuake2 Vita",
+      "repo": "drdecki/vkquake2-vita",
+      "asset": "*.vpk",
+      "release_tag": "v1.1",
+      "source_asset": "vkquake2.vpk",
+      "icon": "2224-vkquake2-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1720",
+      "catalog_id": 2225,
+      "name": "J2Vita",
+      "repo": "kiddrwxssj/j2vita",
+      "asset": "*.vpk",
+      "release_tag": "v0.9.2",
+      "source_asset": "j2vita.vpk",
+      "icon": "2225-j2vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1728",
+      "catalog_id": 2226,
+      "name": "Spyro Vita",
+      "repo": "shayvd/spyro-vita",
+      "asset": "*.vpk",
+      "release_tag": "v1.1.0",
+      "source_asset": "spyro-vita.vpk",
+      "icon": "2226-spyro-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1755",
+      "catalog_id": 2227,
+      "name": "TRANCE PINBALL COLLECTION",
+      "repo": "mdashk/trance-pinball-collection",
+      "asset": "*.vpk",
+      "release_tag": "v3.0",
+      "source_asset": "trancepinball.vpk",
+      "icon": "2227-trance-pinball-collection.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1757",
+      "catalog_id": 2228,
+      "name": "LEGO Ninjago Tournament Vita",
+      "repo": "ronin0095/ninjago-vita",
+      "asset": "*.vpk",
+      "release_tag": "1.0",
+      "source_asset": "Ninjago.vpk",
+      "icon": "2228-lego-ninjago-tournament-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1760",
+      "catalog_id": 2229,
+      "name": "VectorVita",
+      "repo": "pkpro4/vectorvita",
+      "asset": "*.vpk",
+      "release_tag": "v1.0.0",
+      "source_asset": "VectorVita.vpk",
+      "icon": "2229-vectorvita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1761",
+      "catalog_id": 2230,
+      "name": "SC64VITA",
+      "repo": "edenas/sc64vita",
+      "asset": "*.vpk",
+      "release_tag": "v1.0",
+      "source_asset": "SC64VITA-v1.0.vpk",
+      "icon": "2230-sc64vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1693",
+      "catalog_id": 2231,
+      "name": "OpenTyrian2000 Engaged Vita",
+      "repo": "wlfn1116/opentyrian2000-engaged",
+      "asset": "*.vpk",
+      "release_tag": "1.5.3",
+      "source_asset": "OpenTyrian2000-Engaged-Vita.vpk",
+      "icon": "2231-opentyrian2000-engaged-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1750",
+      "catalog_id": 2232,
+      "name": "Ninjago Tournament Vita",
+      "repo": "reallootfury/ninjago-tournament-vita",
+      "asset": "ninjago-vita.vpk",
+      "release_tag": "v1.00",
+      "source_asset": "ninjago-vita.vpk",
+      "icon": "2232-ninjago-tournament-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1752",
+      "catalog_id": 2233,
+      "name": "Tony Hawk Slop Skater",
+      "repo": "darthsully/tony-hawk-slop-skater",
+      "asset": "*.vpk",
+      "release_tag": "v0.30",
+      "source_asset": "thps.vpk",
+      "icon": "2233-tony-hawk-slop-skater.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1753",
+      "catalog_id": 2234,
+      "name": "Mystic Warriors Vita",
+      "repo": "tobic-99/mystwarr-vita",
+      "asset": "*.vpk",
+      "release_tag": "1.0",
+      "source_asset": "mystwarr.vpk",
+      "icon": "2234-mystic-warriors-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1740",
+      "catalog_id": 2235,
+      "name": "Touhou 12.3 Vita",
+      "repo": "botarguirix/touhou123vita",
+      "asset": "*.vpk",
+      "release_tag": "v0.1.1-alpha",
+      "source_asset": "Touhou123Vita-alpha-0.1.1.vpk",
+      "icon": "2235-touhou-12-3-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1741",
+      "catalog_id": 2236,
+      "name": "Tanks 2027 Vita",
+      "repo": "lokidsx/tanks-2027",
+      "asset": "*.vpk",
+      "release_tag": "1.0",
+      "source_asset": "Tanks2027vita.vpk",
+      "icon": "2236-tanks-2027-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1744",
+      "catalog_id": 2237,
+      "name": "60 Seconds! Vita",
+      "repo": "pupuestudios/60-seconds-vita",
+      "asset": "*.vpk",
+      "release_tag": "v1.0",
+      "source_asset": "60seconds.vpk",
+      "icon": "2237-60-seconds-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1745",
+      "catalog_id": 2238,
+      "name": "Gunforce 2 Vita",
+      "repo": "tobic-99/gunforce2-vita",
+      "asset": "*.vpk",
+      "release_tag": "0.1",
+      "source_asset": "gunforce2.vpk",
+      "icon": "2238-gunforce-2-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1751",
+      "catalog_id": 2239,
+      "name": "Ninja Baseball Bat Man Vita",
+      "repo": "tobic-99/nbbatman-vita",
+      "asset": "*.vpk",
+      "release_tag": "1.0",
+      "source_asset": "nbbatman.vpk",
+      "icon": "2239-ninja-baseball-bat-man-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1729",
+      "catalog_id": 2240,
+      "name": "Sally Face Vita",
+      "repo": "pupuestudios/sally-face-vita",
+      "asset": "*.vpk",
+      "release_tag": "v1.1",
+      "source_asset": "sallyface.vpk",
+      "icon": "2240-sally-face-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1733",
+      "catalog_id": 2241,
+      "name": "RuneScape 2 Vita",
+      "repo": "brendonm17/client3-vita",
+      "asset": "*.vpk",
+      "release_tag": "v1.0.0",
+      "source_asset": "RS2-Vita-v1.0.0.vpk",
+      "icon": "2241-runescape-2-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1734",
+      "catalog_id": 2242,
+      "name": "nestfolder",
+      "repo": "emrhky/nestfolder",
+      "asset": "*.vpk",
+      "release_tag": "v1.0.3",
+      "source_asset": "nestfolder.vpk",
+      "icon": "2242-nestfolder.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1737",
+      "catalog_id": 2243,
+      "name": "Final Fantasy VI Vita",
+      "repo": "frangarcj/ff6_vita",
+      "asset": "*.vpk",
+      "release_tag": "v1.0.0",
+      "source_asset": "FF6.vpk",
+      "icon": "2243-final-fantasy-vi-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1738",
+      "catalog_id": 2244,
+      "name": "Shadow Fight 2 Vita",
+      "repo": "franciscoclou/shadowfight2-vita",
+      "asset": "*.vpk",
+      "release_tag": "v1.0",
+      "source_asset": "ShadowFight2.vpk",
+      "icon": "2244-shadow-fight-2-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1758",
+      "catalog_id": 2245,
+      "name": "Batman: Arkham Origins Vita",
+      "repo": "kiddrwxssj/batman-aom-vita",
+      "asset": "*.vpk",
+      "release_tag": "1.1",
+      "source_asset": "batmanarkhamorigins.vpk",
+      "icon": "2245-batman-arkham-origins-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1767",
+      "catalog_id": 2246,
+      "name": "Star Fox Enhanced",
+      "repo": "kandowontu2/starfox-enhanced",
+      "asset": "*vita.zip",
+      "release_tag": "v0.0.8.8.3",
+      "source_asset": "StarFoxEnhanced-0.0.8.8.3-vita.zip",
+      "icon": "2246-star-fox-enhanced.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1523",
+      "catalog_id": 2247,
+      "name": "D2Vita",
+      "repo": "franckrst/d2vita",
+      "asset": "*.vpk",
+      "release_tag": "v0.2.3",
+      "source_asset": "d2vita.vpk",
+      "icon": "2247-d2vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1633",
+      "catalog_id": 2248,
+      "name": "tls_fixer",
+      "repo": "devnoname120/vita_tls_fixer",
+      "asset": "tls_fixer.vpk",
+      "release_tag": "v0.2.3",
+      "source_asset": "tls_fixer.vpk",
+      "icon": "2248-tls-fixer.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1690",
+      "catalog_id": 2249,
+      "name": "PS Vita Recovery Menu",
+      "repo": "drinkingsubset/ps-vita-recovery-menu-project",
+      "asset": "*.vpk",
+      "release_tag": "v1.2.1",
+      "source_asset": "VitaRecovery_v1.2.1.vpk",
+      "icon": "2249-ps-vita-recovery-menu.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1721",
+      "catalog_id": 2250,
+      "name": "Doodle Jump Vita",
+      "repo": "ronin0095/doodlejump-vita",
+      "asset": "*.vpk",
+      "release_tag": "v.10",
+      "source_asset": "doodlejump.vpk",
+      "icon": "2250-doodle-jump-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1722",
+      "catalog_id": 2251,
+      "name": "Left Seat",
+      "repo": "av8t4/leftseat",
+      "asset": "*.vpk",
+      "release_tag": "v2.2.1",
+      "source_asset": "leftseat.vpk",
+      "icon": "2251-left-seat.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1723",
+      "catalog_id": 2252,
+      "name": "THE RHYTHM OF FIGHTERS Vita",
+      "repo": "mdashk/rof-vita",
+      "asset": "*.vpk",
+      "release_tag": "v1.0",
+      "source_asset": "rof.vpk",
+      "icon": "2252-the-rhythm-of-fighters-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1726",
+      "catalog_id": 2253,
+      "name": "Digimon World Vita",
+      "repo": "danicannt/dw-vita",
+      "asset": "*.vpk",
+      "release_tag": "v0.1.0-test",
+      "source_asset": "dw1-vita.vpk",
+      "icon": "2253-digimon-world-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1732",
+      "catalog_id": 2254,
+      "name": "Fury 3 Vita",
+      "repo": "staticlift/fury3",
+      "asset": "*.vpk",
+      "release_tag": "v1.01",
+      "source_asset": "fury3.vpk",
+      "icon": "2254-fury-3-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1634",
+      "catalog_id": 2255,
+      "name": "ReiREM",
+      "repo": "reyanon/reirem",
+      "asset": "*vita.zip",
+      "release_tag": "v0.1.400",
+      "source_asset": "ReiREM_v0.1.400_vita.zip",
+      "icon": "2255-reirem.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1645",
+      "catalog_id": 2256,
+      "name": "Vita Save Manager++",
+      "repo": "rreha/vita-savemgrpp",
+      "asset": "*.vpk",
+      "release_tag": "v5.3.0",
+      "source_asset": "vita-savemgrpp.vpk",
+      "icon": "2256-vita-save-manager.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1715",
+      "catalog_id": 2257,
+      "name": "Open Nectar Vita",
+      "repo": "brendonm17/open-nectar-vita",
+      "asset": "*.vpk",
+      "release_tag": "v0.0.1",
+      "source_asset": "Pikmin-Vita-v0.0.1.vpk",
+      "icon": "2257-open-nectar-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1716",
+      "catalog_id": 2258,
+      "name": "SH4 Vita",
+      "repo": "vallfrr/sh4vita",
+      "asset": "*.vpk",
+      "release_tag": "v1.0.1",
+      "source_asset": "sh4vita.vpk",
+      "icon": "2258-sh4-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1719",
+      "catalog_id": 2259,
+      "name": "kof95sr",
+      "repo": "seba371375/kof95sr",
+      "asset": "*.vpk",
+      "release_tag": "v1.0.0",
+      "source_asset": "kof95.vpk",
+      "icon": "2259-kof95sr.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1558",
+      "catalog_id": 2260,
+      "name": "Halo CE Vita",
+      "repo": "birchwoodgod/halo-ce-vita",
+      "asset": "*.vpk",
+      "release_tag": "v1.1.2",
+      "source_asset": "halo-ce-vita-1.1.2-vita.vpk",
+      "icon": "2260-halo-ce-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1657",
+      "catalog_id": 2261,
+      "name": "Neon Drift",
+      "repo": "toiletcatgames/neondriftpsvitaport",
+      "asset": "*.vpk",
+      "release_tag": "NeonDriftVRBeta",
+      "source_asset": "NeonDrift.vpk",
+      "icon": "2261-neon-drift.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1686",
+      "catalog_id": 2262,
+      "name": "Strikers Vita",
+      "repo": "robin994/strikersvita",
+      "asset": "*.vpk",
+      "release_tag": "v1.5.0",
+      "source_asset": "strikers_vita.vpk",
+      "icon": "2262-strikers-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1711",
+      "catalog_id": 2263,
+      "name": "cc-vita",
+      "repo": "unclejahjah/cc-vita",
+      "asset": "*.vpk",
+      "release_tag": "v2026.11.05",
+      "source_asset": "cc-vita.vpk",
+      "icon": "2263-cc-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1712",
+      "catalog_id": 2264,
+      "name": "Duke Nukem Advance Vita",
+      "repo": "shayvd/duke-nukem-advance-tc-vita",
+      "asset": "*.vpk",
+      "release_tag": "v1.0",
+      "source_asset": "dna-vita.vpk",
+      "icon": "2264-duke-nukem-advance-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1717",
+      "catalog_id": 2265,
+      "name": "Dolphin Blue Vita",
+      "repo": "tobic-99/dolphinblue-vita",
+      "asset": "*.vpk",
+      "release_tag": "0.1",
+      "source_asset": "dolphinblue.vpk",
+      "icon": "2265-dolphin-blue-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1718",
+      "catalog_id": 2266,
+      "name": "Demon Front Vita",
+      "repo": "tobic-99/demonfront-vita",
+      "asset": "*.vpk",
+      "release_tag": "v0.1",
+      "source_asset": "demonfront.vpk",
+      "icon": "2266-demon-front-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1759",
+      "catalog_id": 2267,
+      "name": "Batman: Arkham City Lockdown Vita",
+      "repo": "kiddrwxssj/batman-acl-vita",
+      "asset": "*.vpk",
+      "release_tag": "1.0",
+      "source_asset": "aclockdownvita1.0.vpk",
+      "icon": "2267-batman-arkham-city-lockdown-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1577",
+      "catalog_id": 2268,
+      "name": "VitaXMB",
+      "repo": "dekiller82/vitaxmb",
+      "asset": "*.vpk",
+      "release_tag": "v1.10.2",
+      "source_asset": "VitaXMB-v1.10.2.vpk",
+      "icon": "2268-vitaxmb.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1707",
+      "catalog_id": 2269,
+      "name": "Nitronic Rush Vita",
+      "repo": "arielxflores/nitronicrush-vita",
+      "asset": "*.vpk",
+      "release_tag": "v1.0",
+      "source_asset": "NitronicRush-Vita.vpk",
+      "icon": "2269-nitronic-rush-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1731",
+      "catalog_id": 2270,
+      "name": "Plus Vita",
+      "repo": "calligula87/plus-vita",
+      "asset": "*.vpk",
+      "release_tag": "v001",
+      "source_asset": "plus-vita-v001.vpk",
+      "icon": "2270-plus-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1668",
+      "catalog_id": 2271,
+      "name": "Dragon Ball Z: Budokai Tenkaichi 3 Vita",
+      "repo": "arielxflores/tenkaichi3decomp-vita",
+      "asset": "*.vpk",
+      "release_tag": "v1.1",
+      "source_asset": "Tenkaichi3Decomp-Vita.vpk",
+      "icon": "2271-dragon-ball-z-budokai-tenkaichi-3-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1699",
+      "catalog_id": 2272,
+      "name": "Sonic 1 Forever Vita",
+      "repo": "mdashk/teamforever-v4-1.3-vita",
+      "asset": "*Sonic1Forever.vpk",
+      "release_tag": "v1.0",
+      "source_asset": "Sonic1Forever.vpk",
+      "icon": "2272-sonic-1-forever-vita.png",
+      "has_external_data_in_vitadb": true
+    },
+    {
+      "vita_id": "1542",
+      "catalog_id": 2273,
+      "name": "UFO 40",
+      "repo": "naniiic137/ufo-40",
+      "asset": "*.vpk",
+      "release_tag": "v1.0.0",
+      "source_asset": "ufo40.vpk",
+      "icon": "2273-ufo-40.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1552",
+      "catalog_id": 2274,
+      "name": "Ecstatica Vita",
+      "repo": "ecstatica-game/ecstatica",
+      "asset": "*e1*.vpk",
+      "release_tag": "v0.9.7",
+      "source_asset": "ecstatica-vita-e1-v0.9.7.vpk",
+      "icon": "2274-ecstatica-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1553",
+      "catalog_id": 2275,
+      "name": "Ecstatica 2 Vita",
+      "repo": "ecstatica-game/ecstatica",
+      "asset": "*e2*.vpk",
+      "release_tag": "v0.9.7",
+      "source_asset": "ecstatica-vita-e2-v0.9.7.vpk",
+      "icon": "2275-ecstatica-2-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1652",
+      "catalog_id": 2276,
+      "name": "Buckshot Roulette Portable",
+      "repo": "voidchecksam/buckshotrouletteportable-bsht",
+      "asset": "*.vpk",
+      "release_tag": "v1.0.3",
+      "source_asset": "BuckshotRoulettePortable-BSHT-v1.0.3.vpk",
+      "icon": "2276-buckshot-roulette-portable.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1700",
+      "catalog_id": 2277,
+      "name": "Sonic 2 Absolute Vita",
+      "repo": "mdashk/teamforever-v4-1.3-vita",
+      "asset": "*Sonic2Absolute.vpk",
+      "release_tag": "v1.0",
+      "source_asset": "Sonic2Absolute.vpk",
+      "icon": "2277-sonic-2-absolute-vita.png",
+      "has_external_data_in_vitadb": true
+    },
+    {
+      "vita_id": "1703",
+      "catalog_id": 2278,
+      "name": "Carpocalypse 2 Vita",
+      "repo": "bojan1986819/carpocalypse2",
+      "asset": "*.vpk",
+      "release_tag": "v1.0",
+      "source_asset": "carpocalypse2-vita-v1.0.vpk",
+      "icon": "2278-carpocalypse-2-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1649",
+      "catalog_id": 2279,
+      "name": "ReSys12",
+      "repo": "reyanon/resys12",
+      "asset": "*.zip",
+      "release_tag": "v0.1.286",
+      "source_asset": "ReSys12_v0.1.286_vita.zip",
+      "icon": "2279-resys12.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1696",
+      "catalog_id": 2280,
+      "name": "ElectroBench",
+      "repo": "deadbeef7/electrobench",
+      "asset": "*.vpk",
+      "release_tag": "v0.5",
+      "source_asset": "ElectroBench-vita.vpk",
+      "icon": "2280-electrobench.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1697",
+      "catalog_id": 2281,
+      "name": "Tsukihime Vita",
+      "repo": "ozz0ab/tsukihime-vita",
+      "asset": "*.vpk",
+      "release_tag": "v1.06",
+      "source_asset": "TsukihimeVita-01.06.vpk",
+      "icon": "2281-tsukihime-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1705",
+      "catalog_id": 2282,
+      "name": "Costume Quest Vita",
+      "repo": "ggdrn/costumequestvita",
+      "asset": "*.vpk",
+      "release_tag": "1.0",
+      "source_asset": "CostumeQuestVita-v1.0.0.vpk",
+      "icon": "2282-costume-quest-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1605",
+      "catalog_id": 2283,
+      "name": "Descent Vita",
+      "repo": "kiddrwxssj/descent-vita",
+      "asset": "*.vpk",
+      "release_tag": "1.0.3",
+      "source_asset": "Descent1.0.3.vpk",
+      "icon": "2283-descent-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1636",
+      "catalog_id": 2284,
+      "name": "ReST-V",
+      "repo": "reyanon/rest-v",
+      "asset": "*.zip",
+      "release_tag": "v0.1.529",
+      "source_asset": "ReST-V_v0.1.529_vita.zip",
+      "icon": "2284-rest-v.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1659",
+      "catalog_id": 2285,
+      "name": "Gravity Defied Vita",
+      "repo": "lokidsx/gravity-defied-vita",
+      "asset": "*.vpk",
+      "release_tag": "1.5",
+      "source_asset": "GravityDefied.1.5.vpk",
+      "icon": "2285-gravity-defied-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1695",
+      "catalog_id": 2286,
+      "name": "SF4 Vita",
+      "repo": "john-lay/sf4-vita",
+      "asset": "*.vpk",
+      "release_tag": "v1.0.0",
+      "source_asset": "sf4-vita-1.0.vpk",
+      "icon": "2286-sf4-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1650",
+      "catalog_id": 2287,
+      "name": "Mario Strikers Charged Vita",
+      "repo": "cboc-vita-lab/strikers-charged-vita",
+      "asset": "*.vpk",
+      "release_tag": "v1.1",
+      "source_asset": "Strikers-Charged-Vita.vpk",
+      "icon": "2287-mario-strikers-charged-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1687",
+      "catalog_id": 2288,
+      "name": "Super Metroid Slopfied Vita",
+      "repo": "darthsully/supermetroid-slopified-vita-port",
+      "asset": "*.vpk",
+      "release_tag": "0.4.0",
+      "source_asset": "SuperMetroid-Vita-r21.vpk",
+      "icon": "2288-super-metroid-slopfied-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1688",
+      "catalog_id": 2289,
+      "name": "Resident Evil Vita",
+      "repo": "kiddrwxssj/biohazard-vita",
+      "asset": "*.vpk",
+      "release_tag": "1.0",
+      "source_asset": "biohazard-vita.1.0.vpk",
+      "icon": "2289-resident-evil-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1621",
+      "catalog_id": 2290,
+      "name": "Orbis Minor",
+      "repo": "drakonpl/orbisminor",
+      "asset": "*.vpk",
+      "release_tag": "0.2.2",
+      "source_asset": "OrbisMinor-0.2.2-vita.vpk",
+      "icon": "2290-orbis-minor.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1680",
+      "catalog_id": 2291,
+      "name": "Settlers 2 RTTR Vita",
+      "repo": "nathankewley/s25client-vita",
+      "asset": "*.vpk",
+      "release_tag": "0.1",
+      "source_asset": "s25rttr.vpk",
+      "icon": "2291-settlers-2-rttr-vita.png",
+      "has_external_data_in_vitadb": true
+    },
+    {
+      "vita_id": "1682",
+      "catalog_id": 2292,
+      "name": "TNT Recompiled Vita",
+      "repo": "seveerj/tnt64-recomp",
+      "asset": "*.vpk",
+      "release_tag": "V.100",
+      "source_asset": "TNTRecompiled.vpk",
+      "icon": "2292-tnt-recompiled-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1689",
+      "catalog_id": 2293,
+      "name": "SuperTux Vita",
+      "repo": "drdecki/supertux-vita",
+      "asset": "*.vpk",
+      "release_tag": "v1.0",
+      "source_asset": "supertux2.vpk",
+      "icon": "2293-supertux-vita.png",
+      "has_external_data_in_vitadb": true
+    },
+    {
+      "vita_id": "1516",
+      "catalog_id": 2294,
+      "name": "UO KeeperFX Vita",
+      "repo": "dannydlux90/keeperfx-vita",
+      "asset": "*.vpk",
+      "release_tag": "release-1.03",
+      "source_asset": "KeeperFX-Vita-v1.03.vpk",
+      "icon": "2294-uo-keeperfx-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1579",
+      "catalog_id": 2295,
+      "name": "Solarus Launcher",
+      "repo": "lab0ulange/solarus-vita",
+      "asset": "*.vpk",
+      "release_tag": "v2.1",
+      "source_asset": "SolarusLauncher.vpk",
+      "icon": "2295-solarus-launcher.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1581",
+      "catalog_id": 2296,
+      "name": "Umineko Project Vita",
+      "repo": "stoicpingu/umineko-vita",
+      "asset": "*.vpk",
+      "release_tag": "v1.4",
+      "source_asset": "umineko.vpk",
+      "icon": "2296-umineko-project-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1591",
+      "catalog_id": 2297,
+      "name": "Snail Mail Vita",
+      "repo": "metalsyntax/snail-mail-vita",
+      "asset": "*.vpk",
+      "release_tag": "v1.0.3",
+      "source_asset": "snailmail.vpk",
+      "icon": "2297-snail-mail-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1623",
+      "catalog_id": 2298,
+      "name": "MKW Vita",
+      "repo": "boomannotjeff/mkwiita",
+      "asset": "mkw.vpk",
+      "release_tag": "1.4.2",
+      "source_asset": "mkw.vpk",
+      "icon": "2298-mkw-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1670",
+      "catalog_id": 2299,
+      "name": "vitals",
+      "repo": "nyirsh/vitals",
+      "asset": "*.vpk",
+      "release_tag": "2.0",
+      "source_asset": "vitals-app.vpk",
+      "icon": "2299-vitals.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1671",
+      "catalog_id": 2300,
+      "name": "DX Garden",
+      "repo": "hiraethclub/dx-garden",
+      "asset": "*.vpk",
+      "release_tag": "v0.9.0",
+      "source_asset": "dxgarden-0.9.0.vpk",
+      "icon": "2300-dx-garden.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1564",
+      "catalog_id": 2301,
+      "name": "khdays-vita",
+      "repo": "ggdrn/kh-days-vita",
+      "asset": "*.vpk",
+      "release_tag": "1.0",
+      "source_asset": "khdays-vita-1.0.0.vpk",
+      "icon": "2301-khdays-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1651",
+      "catalog_id": 2302,
+      "name": "Elasto Mania Vita",
+      "repo": "bosshunter/elma-vita",
+      "asset": "*.vpk",
+      "release_tag": "v1.1",
+      "source_asset": "elma.vpk",
+      "icon": "2302-elasto-mania-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1656",
+      "catalog_id": 2303,
+      "name": "SSX Vita",
+      "repo": "lukebrl/ssx-vita",
+      "asset": "*.vpk",
+      "release_tag": "v1.1.1",
+      "source_asset": "ssx_vita.vpk",
+      "icon": "2303-ssx-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1663",
+      "catalog_id": 2304,
+      "name": "Imago",
+      "repo": "sevyw/imago",
+      "asset": "*.vpk",
+      "release_tag": "v1.3.0",
+      "source_asset": "imago-v1.3.0.vpk",
+      "icon": "2304-imago.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1653",
+      "catalog_id": 2305,
+      "name": "Tweebbo Vita",
+      "repo": "tweebbo/tweebbo-vita",
+      "asset": "*.vpk",
+      "release_tag": "v1.4.13",
+      "source_asset": "tweebbo.vpk",
+      "icon": "2305-tweebbo-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1654",
+      "catalog_id": 2306,
+      "name": "Silent Hill Vita",
+      "repo": "khajit2412/silentvitahill",
+      "asset": "*.vpk",
+      "release_tag": "v0.7",
+      "source_asset": "SilentHillVita.vpk",
+      "icon": "2306-silent-hill-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1655",
+      "catalog_id": 2307,
+      "name": "VitaSpot",
+      "repo": "0operryo0/vitaspot",
+      "asset": "*.vpk",
+      "release_tag": "v0.0.4",
+      "source_asset": "VitaSpot.vpk",
+      "icon": "2307-vitaspot.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1658",
+      "catalog_id": 2308,
+      "name": "Plague Inc. Vita",
+      "repo": "danroxn/plague_vita",
+      "asset": "*.vpk",
+      "release_tag": "v1.0",
+      "source_asset": "plague-vita.vpk",
+      "icon": "2308-plague-inc-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1617",
+      "catalog_id": 2309,
+      "name": "PCSX ReArcade",
+      "repo": "frangarcj/pcsx_rearmed",
+      "asset": "*.vpk",
+      "release_tag": "v0.3",
+      "source_asset": "pcsx-rearcade.vpk",
+      "icon": "2309-pcsx-rearcade.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1641",
+      "catalog_id": 2310,
+      "name": "LSD Revamped Vita",
+      "repo": "arielxflores/lsdrevamped-vita",
+      "asset": "*.vpk",
+      "release_tag": "v1.0",
+      "source_asset": "LSDRevamped-Vita.vpk",
+      "icon": "2310-lsd-revamped-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1607",
+      "catalog_id": 2311,
+      "name": "Raging Thunder Vita",
+      "repo": "metalsyntax/raging-thunder-vita",
+      "asset": "*.vpk",
+      "release_tag": "v1.0.1",
+      "source_asset": "ragingthunder.vpk",
+      "icon": "2311-raging-thunder-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1631",
+      "catalog_id": 2312,
+      "name": "Inotia 2 Vita",
+      "repo": "metalsyntax/inotia2-vita",
+      "asset": "*.vpk",
+      "release_tag": "v1.1.0",
+      "source_asset": "inotia2.vpk",
+      "icon": "2312-inotia-2-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1640",
+      "catalog_id": 2313,
+      "name": "NFS3VITA",
+      "repo": "ndrwhun/nfs3vita",
+      "asset": "*.vpk",
+      "release_tag": "release-1.0",
+      "source_asset": "NFS3VITA-1.0.vpk",
+      "icon": "2313-nfs3vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1642",
+      "catalog_id": 2314,
+      "name": "ATVITA",
+      "repo": "bm-hicham19/atvita",
+      "asset": "*.vpk",
+      "release_tag": "ready-to-play",
+      "source_asset": "AdventureTimeVita.vpk",
+      "icon": "2314-atvita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1643",
+      "catalog_id": 2315,
+      "name": "StepMania 5 Vita",
+      "repo": "luckyi13i/stepmania-psvita",
+      "asset": "*.vpk",
+      "release_tag": "b112",
+      "source_asset": "StepMania5-Vita50-b112.vpk",
+      "icon": "2315-stepmania-5-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1515",
+      "catalog_id": 2316,
+      "name": "VitaKotor",
+      "repo": "scoobydouche/vitakotor",
+      "asset": "KOTOR.vpk",
+      "release_tag": "v0.4.3",
+      "source_asset": "KOTOR.vpk",
+      "icon": "2316-vitakotor.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1638",
+      "catalog_id": 2317,
+      "name": "Spy Mouse HD Vita",
+      "repo": "myname24/spymouse-vita",
+      "asset": "*.vpk",
+      "release_tag": "V1.1",
+      "source_asset": "spymouse.vpk",
+      "icon": "2317-spy-mouse-hd-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1598",
+      "catalog_id": 2318,
+      "name": "VitaKotor2",
+      "repo": "pyjabox/vitakotor2",
+      "asset": "*.vpk",
+      "release_tag": "v0.5.8",
+      "source_asset": "KOTOR2.vpk",
+      "icon": "2318-vitakotor2.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1629",
+      "catalog_id": 2319,
+      "name": "LiveArea Designer",
+      "repo": "robin994/liveareadesigner",
+      "asset": "*.vpk",
+      "release_tag": "v1.31",
+      "source_asset": "LIVAREA01.vpk",
+      "icon": "2319-livearea-designer.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1622",
+      "catalog_id": 2320,
+      "name": "PCSX AwO",
+      "repo": "rinnegatamante/pcsx_awo",
+      "asset": "*.vpk",
+      "release_tag": "v.0.5.1",
+      "source_asset": "pcsx-awo.vpk",
+      "icon": "2320-pcsx-awo.png",
+      "has_external_data_in_vitadb": true
+    },
+    {
+      "vita_id": "1664",
+      "catalog_id": 2321,
+      "name": "The Ledge",
+      "repo": "beaufortribbons/the-ledge-vita",
+      "asset": "*.vpk",
+      "release_tag": "v0.34",
+      "source_asset": "The-Ledge-Vita-0.34.vpk",
+      "icon": "2321-the-ledge.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1528",
+      "catalog_id": 2322,
+      "name": "Sonic R Vita",
+      "repo": "fr3dsp/sonic-r-vita",
+      "asset": "*.vpk",
+      "release_tag": "v2.0",
+      "source_asset": "sonicr_vita.vpk",
+      "icon": "2322-sonic-r-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1549",
+      "catalog_id": 2323,
+      "name": "Ruffle Vita",
+      "repo": "ibrahim-dogan/vita-flash-emulator",
+      "asset": "*.vpk",
+      "release_tag": "v1.3.0",
+      "source_asset": "rufflevita.vpk",
+      "icon": "2323-ruffle-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1557",
+      "catalog_id": 2324,
+      "name": "Pokeemerald Rogue Vita",
+      "repo": "minze25/pokeemerald-rogue-vita",
+      "asset": "*.vpk",
+      "release_tag": "vita-v1.5",
+      "source_asset": "pokeemerald_rogue.vpk",
+      "icon": "2324-pokeemerald-rogue-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1611",
+      "catalog_id": 2325,
+      "name": "ZDoom Vita",
+      "repo": "mrazrael1/zdoom-vita",
+      "asset": "*.vpk",
+      "release_tag": "v0.12.0",
+      "source_asset": "zdoom-vita-v0.12.0.vpk",
+      "icon": "2325-zdoom-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1585",
+      "catalog_id": 2326,
+      "name": "Insaniquarium Vita",
+      "repo": "kartingsackboy06/insaniquarium-vita",
+      "asset": "*.vpk",
+      "release_tag": "v1.00a",
+      "source_asset": "InsaniquariumVita.vpk",
+      "icon": "2326-insaniquarium-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1614",
+      "catalog_id": 2327,
+      "name": "WhatsApp Vita",
+      "repo": "figarocool/whatsapp-vita",
+      "asset": "*.vpk",
+      "release_tag": "v2.0.4",
+      "source_asset": "whatsapp-vita.vpk",
+      "icon": "2327-whatsapp-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1618",
+      "catalog_id": 2328,
+      "name": "Hebdomad: Seven Vigils Vita",
+      "repo": "0x4d696e68/hebdomad",
+      "asset": "*.vpk",
+      "release_tag": "v1.1.0",
+      "source_asset": "hebdomad.vpk",
+      "icon": "2328-hebdomad-seven-vigils-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1572",
+      "catalog_id": 2329,
+      "name": "VitaFlightRadar",
+      "repo": "1000660928-design/vitaflightradar",
+      "asset": "*.vpk",
+      "release_tag": "v2.5",
+      "source_asset": "VitaFlightRadar-v2.5.vpk",
+      "icon": "2329-vitaflightradar.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1612",
+      "catalog_id": 2330,
+      "name": "The Dark Queen Of Mortholme Vita",
+      "repo": "rocroverss/the-dark-queen-of-mortholme-psvita",
+      "asset": "*.vpk",
+      "release_tag": "v1.0",
+      "source_asset": "The-Dark-Queen-Of-Mortholme.vpk",
+      "icon": "2330-the-dark-queen-of-mortholme-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1613",
+      "catalog_id": 2331,
+      "name": "Castle of Illusion Vita",
+      "repo": "jwfeniello/castle-of-illusion-vita",
+      "asset": "*.vpk",
+      "release_tag": "v0.12",
+      "source_asset": "castle_of_illusion_vita.vpk",
+      "icon": "2331-castle-of-illusion-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1567",
+      "catalog_id": 2332,
+      "name": "Chex Quest Collection",
+      "repo": "sanciopanza88/chex-quest-collection",
+      "asset": "*.vpk",
+      "release_tag": "v2.0",
+      "source_asset": "ChexQuestCollection.vpk",
+      "icon": "2332-chex-quest-collection.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1592",
+      "catalog_id": 2333,
+      "name": "VitaDay",
+      "repo": "s1zzle5486/vitaday",
+      "asset": "*.vpk",
+      "release_tag": "v0.10.34",
+      "source_asset": "VitaDay-0.10.34.vpk",
+      "icon": "2333-vitaday.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1603",
+      "catalog_id": 2334,
+      "name": "Music Vita",
+      "repo": "bvilleretro/music-vita",
+      "asset": "*.vpk",
+      "release_tag": "v1.0",
+      "source_asset": "MusicVita-v1.0.vpk",
+      "icon": "2334-music-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1604",
+      "catalog_id": 2335,
+      "name": "Predators Vita",
+      "repo": "aj170/predators-psvita-port",
+      "asset": "*.vpk",
+      "release_tag": "1.0",
+      "source_asset": "PREDATORS-FinalBuild_v1.0-stub.vpk",
+      "icon": "2335-predators-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1601",
+      "catalog_id": 2336,
+      "name": "Prince of Persia 2: The Shadow and the Flame Vita",
+      "repo": "cardas26/psp2-pop2",
+      "asset": "pop2.vpk",
+      "release_tag": "v1.0.0",
+      "source_asset": "pop2.vpk",
+      "icon": "2336-prince-of-persia-2-the-shadow-and-the-flame-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1606",
+      "catalog_id": 2337,
+      "name": "Call of Mini Zombies Vita",
+      "repo": "aj170/call-of-mini-zombies-1-psvita-port",
+      "asset": "*.vpk",
+      "release_tag": "1.01",
+      "source_asset": "CoMZombies_v1.01-stub.vpk",
+      "icon": "2337-call-of-mini-zombies-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1608",
+      "catalog_id": 2338,
+      "name": "Shooter Space",
+      "repo": "metalsyntax/space-shooter-vita",
+      "asset": "*.vpk",
+      "release_tag": "v1.1.0",
+      "source_asset": "ShooterSpace.vpk",
+      "icon": "2338-shooter-space.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1610",
+      "catalog_id": 2339,
+      "name": "ABSvita",
+      "repo": "darthtigerson/absvita",
+      "asset": "*.vpk",
+      "release_tag": "v0.1.2",
+      "source_asset": "ABSvita.vpk",
+      "icon": "2339-absvita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1619",
+      "catalog_id": 2340,
+      "name": "Dragon Ball Tap Battle Vita",
+      "repo": "vegettosan/drag-n-ball-tap-battle-ps-vita",
+      "asset": "*.vpk",
+      "release_tag": "1.2",
+      "source_asset": "DBTapBattle-1.2.vpk",
+      "icon": "2340-dragon-ball-tap-battle-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1524",
+      "catalog_id": 2341,
+      "name": "Smash Melee Vita",
+      "repo": "zm2283145/melee-vita",
+      "asset": "*.vpk",
+      "release_tag": "v0.8.16",
+      "source_asset": "SmashMeleevita-0.8.16.vpk",
+      "icon": "2341-smash-melee-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1597",
+      "catalog_id": 2342,
+      "name": "reBounce Vita",
+      "repo": "myname24/rebounce-vita",
+      "asset": "*.vpk",
+      "release_tag": "Main",
+      "source_asset": "BounceEvolution.vpk",
+      "icon": "2342-rebounce-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1600",
+      "catalog_id": 2343,
+      "name": "Ambidextro Vita",
+      "repo": "rocroverss/ambidextro-psvita",
+      "asset": "*.vpk",
+      "release_tag": "v1.0",
+      "source_asset": "ambidextro.vpk",
+      "icon": "2343-ambidextro-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1575",
+      "catalog_id": 2344,
+      "name": "Palm Heroes Vita",
+      "repo": "cardas26/psp2-pheroes",
+      "asset": "palmheroes.vpk",
+      "release_tag": "v1.1.0",
+      "source_asset": "palmheroes.vpk",
+      "icon": "2344-palm-heroes-vita.png",
+      "has_external_data_in_vitadb": true
+    },
+    {
+      "vita_id": "1576",
+      "catalog_id": 2345,
+      "name": "Art3m1sPSV",
+      "repo": "deqxj00/art3m1spsv",
+      "asset": "*.vpk",
+      "release_tag": "v1.4.9",
+      "source_asset": "Art3m1sPSV-v1.4.9.vpk",
+      "icon": "2345-art3m1spsv.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1589",
+      "catalog_id": 2346,
+      "name": "VitaChess",
+      "repo": "shoshkabob99/vitachess",
+      "asset": "*.vpk",
+      "release_tag": "Release",
+      "source_asset": "VitaChess-1.0.vpk",
+      "icon": "2346-vitachess.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1594",
+      "catalog_id": 2347,
+      "name": "Regular Show: Best Park in the Universe Vita",
+      "repo": "jwfeniello/regular-show-best-park-in-the-universe-vita",
+      "asset": "*.vpk",
+      "release_tag": "v0.10",
+      "source_asset": "best_park_vita.vpk",
+      "icon": "2347-regular-show-best-park-in-the-universe-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1595",
+      "catalog_id": 2348,
+      "name": "Paperboat Vita",
+      "repo": "rinnegatamante/paperboat",
+      "asset": "*.vpk",
+      "release_tag": "v.1.0",
+      "source_asset": "PaperBoat.vpk",
+      "icon": "2348-paperboat-vita.png",
+      "has_external_data_in_vitadb": true
+    },
+    {
+      "vita_id": "1545",
+      "catalog_id": 2349,
+      "name": "Might and Magic: Clash of Heroes Vita",
+      "repo": "cardas26/psp2-mmcoh",
+      "asset": "mmcoh.vpk",
+      "release_tag": "v1.1.0",
+      "source_asset": "mmcoh.vpk",
+      "icon": "2349-might-and-magic-clash-of-heroes-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1580",
+      "catalog_id": 2350,
+      "name": "VitaSDR",
+      "repo": "hiraethclub/vitasdr",
+      "asset": "*.vpk",
+      "release_tag": "v0.3.0",
+      "source_asset": "VitaSDR.vpk",
+      "icon": "2350-vitasdr.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1566",
+      "catalog_id": 2351,
+      "name": "PAC-GAL 1982 Vita",
+      "repo": "figarocool/pac-gal-dos-pc-game-produced-by-j.-jimenez-in-1982",
+      "asset": "*.vpk",
+      "release_tag": "v1.0.1",
+      "source_asset": "PAC-GAL-PSVita.vpk",
+      "icon": "2351-pac-gal-1982-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1565",
+      "catalog_id": 2352,
+      "name": "Top Tennis Vita",
+      "repo": "figarocool/top-tennis-game-factory",
+      "asset": "*.vpk",
+      "release_tag": "v1.4",
+      "source_asset": "TopTennis.vpk",
+      "icon": "2352-top-tennis-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1574",
+      "catalog_id": 2353,
+      "name": "Plants vs Zombies 2 Vita",
+      "repo": "lezergan/pvz2vita",
+      "asset": "*.vpk",
+      "release_tag": "v1.1-rc29",
+      "source_asset": "pvz2-vita-latest.vpk",
+      "icon": "2353-plants-vs-zombies-2-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1569",
+      "catalog_id": 2354,
+      "name": "Scribblenauts Remix Vita",
+      "repo": "jwfeniello/scribblenauts-remix-vita",
+      "asset": "*.vpk",
+      "release_tag": "vpk",
+      "source_asset": "Scribblenauts.Remix.vpk",
+      "icon": "2354-scribblenauts-remix-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1568",
+      "catalog_id": 2355,
+      "name": "Heavy Weapon Deluxe Vita",
+      "repo": "chillaxhson/heavy-weapon-deluxe-vita",
+      "asset": "*.vpk",
+      "release_tag": "v1.1.0",
+      "source_asset": "HeavyWeaponDeluxe-v1.1.0.vpk",
+      "icon": "2355-heavy-weapon-deluxe-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1573",
+      "catalog_id": 2356,
+      "name": "VitaChat",
+      "repo": "misteriousfalcon/vitachat",
+      "asset": "*.vpk",
+      "release_tag": "v1.1",
+      "source_asset": "VitaChat-1.1.vpk",
+      "icon": "2356-vitachat.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1563",
+      "catalog_id": 2357,
+      "name": "Raging Thunder 2 Vita",
+      "repo": "metalsyntax/raging-thunder-2-vita",
+      "asset": "*.vpk",
+      "release_tag": "v1.1.1",
+      "source_asset": "ragingthunder2.vpk",
+      "icon": "2357-raging-thunder-2-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1555",
+      "catalog_id": 2358,
+      "name": "Test Drive II Vita",
+      "repo": "smart-pickle/testdriveii-vita",
+      "asset": "*.vpk",
+      "release_tag": "v0.2",
+      "source_asset": "TestDrive2Vita.vpk",
+      "icon": "2358-test-drive-ii-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1556",
+      "catalog_id": 2359,
+      "name": "Test Drive III Vita",
+      "repo": "smart-pickle/testdriveiii-vita",
+      "asset": "*.vpk",
+      "release_tag": "v0.1",
+      "source_asset": "TestDrive3Vita.vpk",
+      "icon": "2359-test-drive-iii-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1587",
+      "catalog_id": 2360,
+      "name": "PSVitaman",
+      "repo": "biodam/psvitaman",
+      "asset": "*.vpk",
+      "release_tag": "v1.0.0",
+      "source_asset": "PSVitaman.vpk",
+      "icon": "2360-psvitaman.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1548",
+      "catalog_id": 2361,
+      "name": "Army of Darkness Defense Vita",
+      "repo": "p1r4n351/army-of-darkness-defense-vita",
+      "asset": "*.vpk",
+      "release_tag": "v1.1.1",
+      "source_asset": "aod_vita.vpk",
+      "icon": "2361-army-of-darkness-defense-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1551",
+      "catalog_id": 2362,
+      "name": "Icy Tower Vita",
+      "repo": "ibrahim-dogan/vita-icy-tower",
+      "asset": "*.vpk",
+      "release_tag": "v1.0.1",
+      "source_asset": "icytower.vpk",
+      "icon": "2362-icy-tower-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1546",
+      "catalog_id": 2363,
+      "name": "VitaOS",
+      "repo": "mvizensk/vitaos",
+      "asset": "*.vpk",
+      "release_tag": "v1.8.4",
+      "source_asset": "VitaOS.vpk",
+      "icon": "2363-vitaos.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1547",
+      "catalog_id": 2364,
+      "name": "Bike Race Vita",
+      "repo": "franciscoclou/bikerace-vita",
+      "asset": "*.vpk",
+      "release_tag": "v1.1",
+      "source_asset": "BikeRace.vpk",
+      "icon": "2364-bike-race-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1543",
+      "catalog_id": 2365,
+      "name": "Halyard",
+      "repo": "wasabules/halyard",
+      "asset": "*.vpk",
+      "release_tag": "v0.1.0",
+      "source_asset": "halyard.vpk",
+      "icon": "2365-halyard.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1539",
+      "catalog_id": 2366,
+      "name": "Alex The Allegator 4 Vita",
+      "repo": "withlogic/alex4",
+      "asset": "*.vpk",
+      "release_tag": "1.0",
+      "source_asset": "alex4.vpk",
+      "icon": "2366-alex-the-allegator-4-vita.png",
+      "has_external_data_in_vitadb": true
+    },
+    {
+      "vita_id": "1537",
+      "catalog_id": 2367,
+      "name": "Apotris Vita",
+      "repo": "rocroverss/apotris-psvita",
+      "asset": "*.vpk",
+      "release_tag": "v1.0",
+      "source_asset": "Apotris.v1.0-audio.vpk",
+      "icon": "2367-apotris-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1538",
+      "catalog_id": 2368,
+      "name": "Arcaea Vita",
+      "repo": "memory-hunter/arcaea-vita",
+      "asset": "*.vpk",
+      "release_tag": "1.0",
+      "source_asset": "arcaea.vpk",
+      "icon": "2368-arcaea-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1536",
+      "catalog_id": 2369,
+      "name": "Monster Shooter Vita",
+      "repo": "federicoilgrandebardo/monstershooter-vita",
+      "asset": "*.vpk",
+      "release_tag": "v1.2",
+      "source_asset": "monstershooter.vpk",
+      "icon": "2369-monster-shooter-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1517",
+      "catalog_id": 2370,
+      "name": "Renegade Vita",
+      "repo": "thegh0stship/renegadevita",
+      "asset": "*.vpk",
+      "release_tag": "A3.5-dev207",
+      "source_asset": "RenegadeVita-A3.5-dev207.vpk",
+      "icon": "2370-renegade-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1535",
+      "catalog_id": 2371,
+      "name": "NFS II SE Vita",
+      "repo": "veitorman/nfs2se-vita",
+      "asset": "*.vpk",
+      "release_tag": "v1.0.0",
+      "source_asset": "nfs2se-vita-v1.vpk",
+      "icon": "2371-nfs-ii-se-vita.png",
+      "has_external_data_in_vitadb": true
+    },
+    {
+      "vita_id": "1529",
+      "catalog_id": 2372,
+      "name": "FTP for Vita",
+      "repo": "m-essa11/ftp-for-vita",
+      "asset": "*.vpk",
+      "release_tag": "v1.0.0",
+      "source_asset": "FTPForVita.vpk",
+      "icon": "2372-ftp-for-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1530",
+      "catalog_id": 2373,
+      "name": "Test Drive Vita",
+      "repo": "smart-pickle/testdrive-vita",
+      "asset": "*.vpk",
+      "release_tag": "v0.1",
+      "source_asset": "TestDriveVita.vpk",
+      "icon": "2373-test-drive-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1531",
+      "catalog_id": 2374,
+      "name": "Vita PrBoom++",
+      "repo": "tonyfideo/vita-prboom-plusplus",
+      "asset": "*.vpk",
+      "release_tag": "2.6.66-1.1",
+      "source_asset": "vita-prboom++.vpk",
+      "icon": "2374-vita-prboom.png",
+      "has_external_data_in_vitadb": true
+    },
+    {
+      "vita_id": "1521",
+      "catalog_id": 2375,
+      "name": "RE: Gaiden Recomp Vita",
+      "repo": "rinnegatamante/regaiden-recomp",
+      "asset": "*.vpk",
+      "release_tag": "v.1.0",
+      "source_asset": "ResidentEvilGaiden.vpk",
+      "icon": "2375-re-gaiden-recomp-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1522",
+      "catalog_id": 2376,
+      "name": "AdvancedSlop",
+      "repo": "grarak/advancedslop",
+      "asset": "*.vpk",
+      "release_tag": "0.1.0",
+      "source_asset": "advancedslop.vpk",
+      "icon": "2376-advancedslop.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1514",
+      "catalog_id": 2377,
+      "name": "Caffeine for Vita",
+      "repo": "m-essa11/caffeine-for-vita",
+      "asset": "*.vpk",
+      "release_tag": "v1.0.1",
+      "source_asset": "CaffeineForVita.vpk",
+      "icon": "2377-caffeine-for-vita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1540",
+      "catalog_id": 2378,
+      "name": "repentogxm",
+      "repo": "0xl0cal/repentogxm",
+      "asset": "*.vpk",
+      "release_tag": "v0.1.1-alpha",
+      "source_asset": "repentogxm-v0.1.1-alpha.vpk",
+      "icon": "2378-repentogxm.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1525",
+      "catalog_id": 2379,
+      "name": "VagaChatVITA",
+      "repo": "frxn5j/vagachatvita",
+      "asset": "*.vpk",
+      "release_tag": "0.1.0",
+      "source_asset": "VagaChatVITA.vpk",
+      "icon": "2379-vagachatvita.png",
+      "has_external_data_in_vitadb": false
+    },
+    {
+      "vita_id": "1710",
+      "catalog_id": 2380,
+      "name": "Wesnoth Vita",
+      "repo": "nathankewley/wesnoth-vita",
+      "asset": "*.vpk",
+      "release_tag": "v0.1",
+      "source_asset": "wesnoth-01.18.vpk",
+      "icon": "2380-wesnoth-vita.png",
+      "has_external_data_in_vitadb": false
+    }
+  ],
+  "skipped": [
+    {
+      "vita_id": "1646",
+      "name": "Shards of Dawn",
+      "repo": null,
+      "reason": "no_github_repo",
+      "details": null
+    },
+    {
+      "vita_id": "1775",
+      "name": "VitaScore",
+      "repo": "diogoasp97/vitascore",
+      "reason": "no_compatible_stable_asset",
+      "details": null
+    },
+    {
+      "vita_id": "1777",
+      "name": "Vita Audio Receiver",
+      "repo": "egalindo2167/vita-soloist-receiver",
+      "reason": "no_compatible_stable_asset",
+      "details": null
+    },
+    {
+      "vita_id": "1779",
+      "name": "sh2-vita",
+      "repo": "angelogalav/sh2-vita",
+      "reason": "no_compatible_stable_asset",
+      "details": null
+    },
+    {
+      "vita_id": "1782",
+      "name": "Kabuto Park Vita",
+      "repo": null,
+      "reason": "no_github_repo",
+      "details": null
+    },
+    {
+      "vita_id": "1704",
+      "name": "Pocket Shelf",
+      "repo": "fthdgn-gh/pocket-shelf",
+      "reason": "no_compatible_stable_asset",
+      "details": null
+    },
+    {
+      "vita_id": "1765",
+      "name": "WoWVita",
+      "repo": "raizhald/wowvita",
+      "reason": "no_compatible_stable_asset",
+      "details": null
+    },
+    {
+      "vita_id": "1770",
+      "name": "Crash Bandicoot: The Wrath of Cortex Vita",
+      "repo": "sebaz07/crashwoc-vita",
+      "reason": "no_compatible_stable_asset",
+      "details": null
+    },
+    {
+      "vita_id": "1763",
+      "name": "Alien Hominid HD Vita",
+      "repo": "unclejahjah/ahhd-vita",
+      "reason": "no_compatible_stable_asset",
+      "details": null
+    },
+    {
+      "vita_id": "1756",
+      "name": "EnManga",
+      "repo": "en5an/enmanga",
+      "reason": "no_compatible_stable_asset",
+      "details": null
+    },
+    {
+      "vita_id": "1743",
+      "name": "2007Scape Vita",
+      "repo": "me11yb3an/client3",
+      "reason": "no_compatible_stable_asset",
+      "details": null
+    },
+    {
+      "vita_id": "1749",
+      "name": "GBS",
+      "repo": null,
+      "reason": "no_github_repo",
+      "details": null
+    },
+    {
+      "vita_id": "1742",
+      "name": "Pixel Dungeon Console Edition",
+      "repo": "xqwpx/pixel-dungeon-console-edition",
+      "reason": "no_compatible_stable_asset",
+      "details": null
+    },
+    {
+      "vita_id": "1727",
+      "name": "Dark Meadow Vita",
+      "repo": "dungeater66/darkmeadow-vita",
+      "reason": "no_compatible_stable_asset",
+      "details": null
+    },
+    {
+      "vita_id": "1730",
+      "name": "CWebView",
+      "repo": "that-one-bit/cwebview",
+      "reason": "no_compatible_stable_asset",
+      "details": null
+    },
+    {
+      "vita_id": "1714",
+      "name": "Shotgun King Vita+",
+      "repo": "botarguirix/shotgunk2vita",
+      "reason": "no_compatible_stable_asset",
+      "details": null
+    },
+    {
+      "vita_id": "1584",
+      "name": "Tuiza Vita",
+      "repo": "tutuifc/tuizavita-3ds-emu",
+      "reason": "no_compatible_stable_asset",
+      "details": null
+    },
+    {
+      "vita_id": "1673",
+      "name": "Dead or Alive Vita",
+      "repo": "retrovalou/daytona-arcade-recomp",
+      "reason": "no_compatible_stable_asset",
+      "details": null
+    },
+    {
+      "vita_id": "1674",
+      "name": "Manx TT Superbike Vita",
+      "repo": "retrovalou/daytona-arcade-recomp",
+      "reason": "no_compatible_stable_asset",
+      "details": null
+    },
+    {
+      "vita_id": "1647",
+      "name": "Skate 3 Vita",
+      "repo": "irolup/skate-3-vita",
+      "reason": "no_compatible_stable_asset",
+      "details": null
+    },
+    {
+      "vita_id": "1694",
+      "name": "vitaterm",
+      "repo": "jmverges/vitaterm",
+      "reason": "no_compatible_stable_asset",
+      "details": null
+    },
+    {
+      "vita_id": "1667",
+      "name": "Conker Vita",
+      "repo": "henrykun55/cbfd-recompiled",
+      "reason": "no_compatible_stable_asset",
+      "details": null
+    },
+    {
+      "vita_id": "1672",
+      "name": "Daytona USA Vita",
+      "repo": "retrovalou/daytona-arcade-recomp",
+      "reason": "no_compatible_stable_asset",
+      "details": null
+    },
+    {
+      "vita_id": "1675",
+      "name": "Sega Rally Championship Vita",
+      "repo": "retrovalou/daytona-arcade-recomp",
+      "reason": "no_compatible_stable_asset",
+      "details": null
+    },
+    {
+      "vita_id": "1669",
+      "name": "NBA2K16 Vita",
+      "repo": null,
+      "reason": "no_github_repo",
+      "details": null
+    },
+    {
+      "vita_id": "1676",
+      "name": "Virtua Cop Vita",
+      "repo": "retrovalou/daytona-arcade-recomp",
+      "reason": "no_compatible_stable_asset",
+      "details": null
+    },
+    {
+      "vita_id": "1677",
+      "name": "Virtua Cop 2 Vita",
+      "repo": "retrovalou/daytona-arcade-recomp",
+      "reason": "no_compatible_stable_asset",
+      "details": null
+    },
+    {
+      "vita_id": "1678",
+      "name": "Virtua Fighter 2 Vita",
+      "repo": "retrovalou/daytona-arcade-recomp",
+      "reason": "no_compatible_stable_asset",
+      "details": null
+    },
+    {
+      "vita_id": "1660",
+      "name": "A Place Beyond",
+      "repo": "bcaa777/a-place-beyond-psp-vita",
+      "reason": "no_compatible_stable_asset",
+      "details": null
+    },
+    {
+      "vita_id": "1554",
+      "name": "KH:COM Vita",
+      "repo": "ggdrn/kh_com_vita",
+      "reason": "no_compatible_stable_asset",
+      "details": null
+    },
+    {
+      "vita_id": "1635",
+      "name": "Pocket League",
+      "repo": "mr-professor-x/pocketleaguesideswipevita",
+      "reason": "no_compatible_stable_asset",
+      "details": null
+    },
+    {
+      "vita_id": "1504",
+      "name": "Jazz2 Resurrection",
+      "repo": "deathkiller/jazz2-native",
+      "reason": "no_compatible_stable_asset",
+      "details": null
+    },
+    {
+      "vita_id": "1630",
+      "name": "Street Fighter IV CE Vita",
+      "repo": "frangarcj/sf4ce_vita",
+      "reason": "no_compatible_stable_asset",
+      "details": null
+    },
+    {
+      "vita_id": "1632",
+      "name": "Vreed",
+      "repo": "ocelot-oss/vreed",
+      "reason": "no_compatible_stable_asset",
+      "details": null
+    },
+    {
+      "vita_id": "1620",
+      "name": "Ignition Vita",
+      "repo": "zeusthenen/ignition-vita",
+      "reason": "duplicate normalized name"
+    },
+    {
+      "vita_id": "1648",
+      "name": "Vita Steam Link",
+      "repo": null,
+      "reason": "no_github_repo",
+      "details": null
+    },
+    {
+      "vita_id": "1666",
+      "name": "IGI Vita",
+      "repo": "henrykun55/igi-recomp",
+      "reason": "no_compatible_stable_asset",
+      "details": null
+    },
+    {
+      "vita_id": "1586",
+      "name": "PSVITAMAN",
+      "repo": null,
+      "reason": "no_github_repo",
+      "details": null
+    },
+    {
+      "vita_id": "1602",
+      "name": "Star Wars Episode I: The Phantom Menace Vita",
+      "repo": null,
+      "reason": "no_github_repo",
+      "details": null
+    },
+    {
+      "vita_id": "1582",
+      "name": "VitaCar",
+      "repo": "inigosui/vitacar",
+      "reason": "no_compatible_stable_asset",
+      "details": null
+    },
+    {
+      "vita_id": "1615",
+      "name": "SRB2 Vita",
+      "repo": "kiddrwxssj/srb2-vita",
+      "reason": "no_compatible_stable_asset",
+      "details": null
+    },
+    {
+      "vita_id": "1533",
+      "name": "Paper Mario Vita",
+      "repo": null,
+      "reason": "no_github_repo",
+      "details": null
+    },
+    {
+      "vita_id": "1588",
+      "name": "RALA:/:sutura",
+      "repo": null,
+      "reason": "no_github_repo",
+      "details": null
+    },
+    {
+      "vita_id": "1590",
+      "name": "LISA Vita",
+      "repo": "pinol0/lisa-vita",
+      "reason": "no_compatible_stable_asset",
+      "details": null
+    },
+    {
+      "vita_id": "1583",
+      "name": "GE007 Vita",
+      "repo": null,
+      "reason": "no_github_repo",
+      "details": null
+    },
+    {
+      "vita_id": "1609",
+      "name": "Call of Duty World at War Zombies Vita",
+      "repo": null,
+      "reason": "no_github_repo",
+      "details": null
+    },
+    {
+      "vita_id": "1570",
+      "name": "Happy Wheels Vita",
+      "repo": null,
+      "reason": "no_github_repo",
+      "details": null
+    },
+    {
+      "vita_id": "1559",
+      "name": "Keen4Vita",
+      "repo": null,
+      "reason": "no_github_repo",
+      "details": null
+    },
+    {
+      "vita_id": "1550",
+      "name": "FlashVita",
+      "repo": "robin994/flashvita",
+      "reason": "no_compatible_stable_asset",
+      "details": null
+    },
+    {
+      "vita_id": "1544",
+      "name": "Pixel Acres",
+      "repo": null,
+      "reason": "no_github_repo",
+      "details": null
+    },
+    {
+      "vita_id": "1527",
+      "name": "C-Dogs SDL Vita",
+      "repo": "abduct/cdogs-sdl",
+      "reason": "no_compatible_stable_asset",
+      "details": null
+    },
+    {
+      "vita_id": "1520",
+      "name": "The Powerpuff Girls: Mojo Madness Vita",
+      "repo": null,
+      "reason": "no_github_repo",
+      "details": null
+    },
+    {
+      "vita_id": "1518",
+      "name": "Mystery House",
+      "repo": null,
+      "reason": "no_github_repo",
+      "details": null
+    },
+    {
+      "vita_id": "1519",
+      "name": "Spelunky Vita Configurator",
+      "repo": null,
+      "reason": "no_github_repo",
+      "details": null
+    },
+    {
+      "vita_id": "1052",
+      "name": "LDhewm3 ReARMed",
+      "repo": "rinnegatamante/d3es-vita",
+      "reason": "no_compatible_stable_asset",
+      "details": null
+    },
+    {
+      "vita_id": "1685",
+      "name": "Little Fighter 2 Vita",
+      "repo": "dannydlux90/lf2vita",
+      "reason": "no_compatible_stable_asset",
+      "details": null
+    },
+    {
+      "vita_id": "1498",
+      "name": "Deckis Platformer",
+      "repo": null,
+      "reason": "no_github_repo",
+      "details": null
+    },
+    {
+      "vita_id": "1497",
+      "name": "Pac-man: Deadline",
+      "repo": null,
+      "reason": "no_github_repo",
+      "details": null
+    },
+    {
+      "vita_id": "1442",
+      "name": "MCSM Vita",
+      "repo": "lezergan/mcsm-vita",
+      "reason": "no_compatible_stable_asset",
+      "details": null
+    },
+    {
+      "vita_id": "1494",
+      "name": "BombSquad Vita",
+      "repo": null,
+      "reason": "no_github_repo",
+      "details": null
+    },
+    {
+      "vita_id": "1460",
+      "name": "Earn to Die Vita",
+      "repo": null,
+      "reason": "no_github_repo",
+      "details": null
+    },
+    {
+      "vita_id": "1526",
+      "name": "Noisy Mansion",
+      "repo": null,
+      "reason": "no_github_repo",
+      "details": null
+    },
+    {
+      "vita_id": "1450",
+      "name": "Non-Competitive Singing Potatoes",
+      "repo": null,
+      "reason": "no_github_repo",
+      "details": null
+    },
+    {
+      "vita_id": "1451",
+      "name": "Boiled Corn",
+      "repo": null,
+      "reason": "no_github_repo",
+      "details": null
+    }
+  ]
+}
