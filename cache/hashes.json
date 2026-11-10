@@ -13,6 +13,11 @@
     "hash": "c8f69298f976c5b810931e6d5e92f2b4",
     "hash2": ""
   },
+  "AGTS10k/Gish-vita-revibed@722307944@2026-11-07T23:45:41Z": {
+    "folder": "",
+    "hash": "1970ad29d610ae658d0afd8aaf464e3b",
+    "hash2": ""
+  },
   "ALVA-Store/MyShell@670598874@2026-10-23T22:32:42Z": {
     "folder": "",
     "hash": "afefddd56247ec707d7ab1b0dffcd780",
@@ -21,6 +26,11 @@
   "ALVA-Store/MyShell@693924795@2026-10-31T00:54:45Z": {
     "folder": "",
     "hash": "4c517f25d8af0f5bd22e8e90d015bdec",
+    "hash2": ""
+  },
+  "ALVA-Store/MyShell@713945811@2026-11-05T15:56:38Z": {
+    "folder": "",
+    "hash": "f56ab004a29480a3516de8af79960c36",
     "hash2": ""
   },
   "Ak1M1223/vitaliero@421825827@2026-05-16T13:07:44Z": {
@@ -107,6 +117,11 @@
   "Asukate/mkxp-z-vita@708217781@2026-11-04T04:27:33Z": {
     "folder": "",
     "hash": "5fb0b5c13757bfae2606e65272549054",
+    "hash2": ""
+  },
+  "Asukate/mkxp-z-vita@730285867@2026-11-10T05:50:13Z": {
+    "folder": "",
+    "hash": "8a0c8fd9b07c5bc0df380b0030ac3c45",
     "hash2": ""
   },
   "Avellea/VitaTester@109846531@2023-05-25T23:44:05Z": {
@@ -732,14 +747,29 @@
     "hash": "5bb2f5677694aaa96be976ac71a8d5da",
     "hash2": ""
   },
+  "MetalSyntax/Inotia3-vita@717519698@2026-11-06T15:01:09Z": {
+    "folder": "",
+    "hash": "13061e94f9ec7df630ca028d113fd7b4",
+    "hash2": ""
+  },
   "MetalSyntax/Zenonia2-psvita-port@487900028@2026-07-24T02:31:28Z": {
     "folder": "",
     "hash": "003ce80a0f50a58f038b909227cc34b7",
     "hash2": ""
   },
+  "MetalSyntax/Zenonia2-psvita-port@732121151@2026-11-10T16:28:17Z": {
+    "folder": "",
+    "hash": "1795f1891ae15daf202d5237c50ef105",
+    "hash2": ""
+  },
   "MetalSyntax/Zenonia4-psvita-port@514995464@2026-08-14T22:20:53Z": {
     "folder": "",
     "hash": "f456dbc85d44c19af34200f1d0349e42",
+    "hash2": ""
+  },
+  "MetalSyntax/Zenonia4-psvita-port@715942643@2026-11-06T04:48:30Z": {
+    "folder": "",
+    "hash": "d1ccaacf25a1427ec278cc22be63ca9f",
     "hash2": ""
   },
   "MetalSyntax/prince-of-persia-classic-psvita-port@542082876@2026-09-03T02:33:10Z": {
@@ -765,6 +795,11 @@
   "MetalSyntax/zenonia3-psvita-port@487803784@2026-07-24T00:27:12Z": {
     "folder": "",
     "hash": "3181c46ffb8335a80f91f79b32337d28",
+    "hash2": ""
+  },
+  "MetalSyntax/zenonia3-psvita-port@715504227@2026-11-06T01:38:50Z": {
+    "folder": "",
+    "hash": "60dd0627e36ee215cc48b01128fc0f8f",
     "hash2": ""
   },
   "Mips96/Trogdor-Reburninated@422561493@2026-05-17T15:13:37Z": {
@@ -852,6 +887,11 @@
     "hash": "088355a44ef6c42fae4867180fc90e88",
     "hash2": ""
   },
+  "NexArea-Official/AreaPlay@731799837@2026-11-10T14:52:25Z": {
+    "folder": "",
+    "hash": "7ae121a11678cc63ba916d84ac853fee",
+    "hash2": ""
+  },
   "Northfear/Commander-Genius@52036242@2021-12-17T19:11:13Z": {
     "hash": "d93560835be35f8587db931de9b70509",
     "hash2": ""
@@ -920,6 +960,11 @@
     "hash2": ""
   },
   "ONElua/AutoPlugin2@517333557@2026-08-16T23:25:00Z": {
+    "folder": "",
+    "hash": "b64268b83a9b1b3cc2efc5714cd9c2cf",
+    "hash2": ""
+  },
+  "ONElua/AutoPlugin2@719289530@2026-11-07T02:05:38Z": {
     "folder": "",
     "hash": "b64268b83a9b1b3cc2efc5714cd9c2cf",
     "hash2": ""
@@ -1391,6 +1436,11 @@
     "hash": "1109733b7f64d10a5bcb975bb35d8840",
     "hash2": ""
   },
+  "Rinnegatamante/soulcalibur_vita@724121423@2026-11-08T14:06:49Z": {
+    "folder": "",
+    "hash": "1dda1b109c62763091127e790c16d6f9",
+    "hash2": ""
+  },
   "Rinnegatamante/superfluous-vita@116220887@2023-07-09T12:44:12Z": {
     "hash": "af5aa0adbcde73cbc21733595e8c0cd1",
     "hash2": ""
@@ -1804,6 +1854,11 @@
     "hash": "3270e31da382eae8637d617f5043ffc5",
     "hash2": ""
   },
+  "WolffsRoom/DeltaruneVita@724952837@2026-11-08T19:24:08Z": {
+    "folder": "",
+    "hash": "595977b6391e6636f45532762d468da4",
+    "hash2": ""
+  },
   "WolffsRoom/FMVita@497512546@2026-08-01T03:49:16Z": {
     "hash": "610ec73aad7f11abb22ecba890969158",
     "hash2": ""
@@ -1855,6 +1910,11 @@
   },
   "ZFhuang/ZATO-vita@352689053@2026-02-08T18:21:07Z": {
     "hash": "fb4de9ae7ef869a0fa1cb5b5430fba47",
+    "hash2": ""
+  },
+  "ZekLab/TMNT-2003-PSVita-Port@724260505@2026-11-08T14:57:16Z": {
+    "folder": "",
+    "hash": "33776fde6139c2ac73db8048df391482",
     "hash2": ""
   },
   "Zushikina-kun/GBVitaEX@523397612@2026-08-21T07:28:38Z": {
@@ -15210,6 +15270,11 @@
     "hash": "f1b91fd9772cd0f4d9c6624a7890be94",
     "hash2": ""
   },
+  "dragonflylee/switchfin@732102445@2026-11-10T16:22:51Z": {
+    "folder": "",
+    "hash": "131b8aee96dd8f73f030325b23fa48cf",
+    "hash2": ""
+  },
   "einmueller/exult-vita@69248623@2022-06-22T11:51:36Z": {
     "hash": "c25da02f13ca52b7f2372a15d30eb6e6",
     "hash2": ""
@@ -15332,6 +15397,11 @@
     "hash": "6ba59d264965bf32651826511e41081b",
     "hash2": ""
   },
+  "frangarcj/ff5_vita@718943379@2026-11-06T23:33:42Z": {
+    "folder": "",
+    "hash": "cda86c935cf43afc97dc00fed75a40cf",
+    "hash2": ""
+  },
   "git-effl/supertux-vita@551404488@2026-09-08T22:04:18Z": {
     "folder": "",
     "hash": "b4e969e8a6202957f96f3ca497b116e6",
@@ -15438,6 +15508,11 @@
     "hash": "ea3255336e703b6e4b9f5eacea0f3cc7",
     "hash2": ""
   },
+  "ihhub/fheroes2@725141208@2026-11-08T20:43:34Z": {
+    "folder": "",
+    "hash": "952220395a124498fa05eb571bb513e8",
+    "hash2": ""
+  },
   "island-games/A-Super-Small-Shmup@50807228@2021-12-02T07:40:37Z": {
     "hash": "a9eea0cfc9900b823be8766cefda369d",
     "hash2": ""
@@ -15523,6 +15598,11 @@
     "hash": "f85d874352c5ba6a4148114fa2eef683",
     "hash2": ""
   },
+  "isledecomp/isle-portable@724680180@2026-11-08T17:34:12Z": {
+    "folder": "",
+    "hash": "c466606c71cf83c4eaa6f1cae8cf0bc3",
+    "hash2": ""
+  },
   "iwannagooutside/thug-vita-port@616810372@2026-10-06T22:20:01Z": {
     "folder": "",
     "hash": "a08446aa9379aa39b5987888a03203c3",
@@ -15536,6 +15616,11 @@
   "iwannagooutside/thug-vita-port@637335040@2026-10-13T14:48:28Z": {
     "folder": "",
     "hash": "74e456da77bfcc30e839f0912aaa8cdc",
+    "hash2": ""
+  },
+  "iwannagooutside/thug2-vita@729319740@2026-11-09T23:07:20Z": {
+    "folder": "",
+    "hash": "d642101f73a2a053475f622a2e8d141b",
     "hash2": ""
   },
   "jakubito/DoomRPG-RE-vita@155581871@2024-03-08T08:25:44Z": {
@@ -15652,6 +15737,11 @@
   "krappaU/pokerogue-vita@675194672@2026-10-25T14:02:04Z": {
     "folder": "",
     "hash": "057d525ed605d672ded8ff08278c7023",
+    "hash2": ""
+  },
+  "krappaU/pokerogue-vita@719223272@2026-11-07T01:36:28Z": {
+    "folder": "",
+    "hash": "2a84b7d01bc1bc00329acb966da5a142",
     "hash2": ""
   },
   "l0wigh/CatacombVita@110980396@2023-06-02T13:33:51Z": {
@@ -16010,6 +16100,11 @@
   "nzp-team/nzportable@702492636@2026-11-02T16:59:18Z": {
     "folder": "",
     "hash": "5d30bf115715b89a782ab282a2df9073",
+    "hash2": ""
+  },
+  "nzp-team/nzportable@724549097@2026-11-08T16:44:50Z": {
+    "folder": "",
+    "hash": "1f9cb8682521076975941ebe5e6ebb46",
     "hash2": ""
   },
   "oestriot/GcToolKit@462947512@2026-07-01T07:21:09Z": {
@@ -16392,6 +16487,11 @@
   "unveroleone/vita-save-sync@598084880@2026-09-29T11:46:53Z": {
     "folder": "",
     "hash": "0a0b51c9a52b480ac386cddbdc8808c1",
+    "hash2": ""
+  },
+  "unveroleone/vita-save-sync@728539119@2026-11-09T18:39:53Z": {
+    "folder": "",
+    "hash": "090326be5159bcb78af960e56ca37edd",
     "hash2": ""
   },
   "usineur/SDLPoP-Vita@15454902@2019-10-13T15:15:19Z": {
