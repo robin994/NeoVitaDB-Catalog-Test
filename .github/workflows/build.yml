@@ -36,6 +36,9 @@ jobs:
 
       - run: pip install jsonschema
 
+      - name: Validate unique catalog IDs and assets
+        run: python tools/check_unique_ids.py
+
       - name: Build
         env:
           # Raises the API budget from 60 to 5000 calls an hour.
