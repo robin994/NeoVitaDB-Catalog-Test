@@ -13,5 +13,6 @@
   "requirements": "HENkaku or Enso. Put music anywhere on ux0 or uma0 (ux0:music opens first).",
   "screenshots": [],
   "trophies": false,
-  "ai": true
+  "ai": true,
+  "trusted": false
 }
