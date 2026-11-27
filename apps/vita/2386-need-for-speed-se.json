@@ -1,0 +1,20 @@
+{
+  "id": 2386,
+  "name": "The Need for Speed: Special Edition",
+  "author": "Buyukcaglar",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "NFSSE0001",
+  "repo": "Buyukcaglar/NFSSE",
+  "asset": "*PSVita*.vpk",
+  "prerelease": false,
+  "icon": "2386-need-for-speed-se.png",
+  "description": "Native PS Vita version of The Need for Speed: Special Edition (Electronic Arts, 1996), made by static recompilation of the game's Windows 95 program with a host layer for the Vita. It is not an emulator or a source port.\nThe picture uses the Vita's 960x544 screen. Enhanced 3D draws the race's 3D scene at the screen's resolution instead of 640x480, and widescreen race shows the race at 16:9. Speeds can be shown in km/h or mph. Settings, best times and replays are saved. On a PlayStation TV a DUALSHOCK 3 or 4 vibrates with the game's force feedback effects.\nThe VPK contains no game data: your own copy of the PC game is needed (English files). Network play, languages other than English and touch input are not included.",
+  "requirements": "- Game Data Files: PC. Copy NFS_WIN.EXE and the FRONTEND, GAMEDATA and SIMDATA folders of your own copy of The Need for Speed: Special Edition to ux0:data/NFSSE/GAME/",
+  "screenshots": [
+    "screenshots/2386-1.png"
+  ],
+  "trophies": false,
+  "ai": false,
+  "ai_assisted": true
+}
